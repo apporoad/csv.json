@@ -1,5 +1,5 @@
 {
-  "name": "csv.json",
+  "name": "csv.json.js",
   "version": "1.0.0",
   "description": "csv 2 json and json 2 csv cli",
   "main": "index.js",
