@@ -1,6 +1,6 @@
 {
   "name": "csv.json.js",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "csv 2 json and json 2 csv cli",
   "main": "index.js",
   "scripts": {
@@ -26,7 +26,7 @@
     "commander": "^6.0.0",
     "find": "^0.3.0",
     "iconv-lite": "^0.6.2",
-    "lisa.csv.parser.js": "^1.0.1"
+    "lisa.csv.parser.js": "^1.0.2"
   },
   "bin": {
     "csv2json": "./csv2json.js",
